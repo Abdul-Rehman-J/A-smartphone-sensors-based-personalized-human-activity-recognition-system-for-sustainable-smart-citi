@@ -1,19 +1,18 @@
 # Collaborative-Fitness-Assessment
-This repo contains the dataset for "A collaborative healthcare framework for shared healthcare plan with ambient intelligence"
-https://link.springer.com/article/10.1186/s13673-020-00245-7
+This repo contains the dataset for "A smartphone sensors-based personalized human activity recognition system for sustainable smart cities"
+https://www.sciencedirect.com/science/article/abs/pii/S2210670721002560
 
-Abstract:The fast propagation of the Internet of Things (IoT) devices has driven to the development of collaborative healthcare frameworks to support the next generation healthcare industry for quality medical healthcare. This paper presents a generalized collaborative framework named collaborative shared healthcare plan (CSHCP) for cognitive health and fitness assessment of people using ambient intelligent application and machine learning techniques. CSHCP provides support for daily physical activity recognition, monitoring, assessment and generate a shared healthcare plan based on collaboration among different stakeholders: doctors, patient guardians, as well as close community circles. The proposed framework shows promising outcomes compared to the existing studies. Furthermore, the proposed framework enhances team communication, coordination, long-term plan management of healthcare information to provide a more efficient and reliable shared healthcare plans to people.
+Abstract:According to the Sustainable Development Agenda 2030 of the World Health Organization, maintaining physical activities have multiple societal privileges for healthier cities and societies. The amalgamation of the Internet of Things (IoT) and pervasive smartphones has become of paramount importance to produce a significant breakthrough in various domains of smart cities, including healthcare, fitness, skill assessment, and personal assistants, to support independent living. The IoT-supported devices capacitate, embedded with sensors, enabled numerous context-aware applications to recognize physical activities. There are some activity recognition applications; however, they are still deficient in recognizing activities accurately. In this paper, a novel framework for human activity recognition (HAR) is proposed using raw readings from a combination of fused smartphone sensors: accelerometer, gyroscope, magnetometer, and Google Fit activity tracking module. The proposed framework applies deep recurrent neural network (DRNN) to an extensive training dataset. The latter consists of five activity classes from 12 individuals using a deep recurrent neural network (DRNN). An extensive training dataset is used consisting of five activity classes from a group of 12 individuals. The designed android application (runs in the background) collects data from the smartphone's embedded sensors fused with the Google Fit API to validate the results proposed framework. The proposed framework shows promising results in recognizing human activities compared to other similar studies and achieves an accuracy of 99.43% for activity recognition using DRNN.
 
 If you wish to use this work, please cite the following BiBTeX:
 
 
-@article{javed2020collaborative,
-  title={A collaborative healthcare framework for shared healthcare plan with ambient intelligence},
-  author={Javed, Abdul Rehman and Sarwar, Muhammad Usman and Beg, Mirza Omer and Asim, Muhammad and Baker, Thar and Tawfik, Hissam},
-  journal={Human-centric Computing and Information Sciences},
-  volume={10},
-  number={1},
-  pages={1--21},
-  year={2020},
-  publisher={Springer}
+@article{javed2021smartphone,
+  title={A smartphone sensors-based personalized human activity recognition system for sustainable smart cities},
+  author={Javed, Abdul Rehman and Faheem, Raza and Asim, Muhammad and Baker, Thar and Beg, Mirza Omer},
+  journal={Sustainable Cities and Society},
+  volume={71},
+  pages={102970},
+  year={2021},
+  publisher={Elsevier}
 }
