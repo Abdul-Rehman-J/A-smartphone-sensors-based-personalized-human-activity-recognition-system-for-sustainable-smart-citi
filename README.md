@@ -1,4 +1,4 @@
-# Collaborative-Fitness-Assessment
+# A smartphone sensors-based personalized human activity recognition system for sustainable smart cities
 This repo contains the dataset for "A smartphone sensors-based personalized human activity recognition system for sustainable smart cities"
 https://www.sciencedirect.com/science/article/abs/pii/S2210670721002560
 
